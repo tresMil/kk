@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* INFANTILES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/z7cwqneywb3f66w/INFANTILES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* INFANTILES ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/z7cwqneywb3f66w/INFANTILES.png" group-title="",#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* INFANTILES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/z7cwqneywb3f66w/INFANTILES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* INFANTILES ☆▆ ▅ ▄ ▂ ▁
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/4/45/BabyTV.png" group-title="INFANTILES",BABY TV HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG HQ" tvg-logo="https://seeklogo.com/images/B/Boomerang__Alternate_Color_Set_-logo-5AD423296B-seeklogo.com.png" group-title="INFANTILES",BOOMERANG HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY HQ" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTILES",DISNEY HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR HQ" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="INFANTILES",DISNEY JR HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD HQ" tvg-logo="http://orig09.deviantart.net/22d3/f/2011/287/e/d/disney_xd_logo_png_by_ivettecaro-d4ctrui.png" group-title="INFANTILES",DISNEY XD HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM  FAMILY FULL HQ" tvg-logo="http://ondemo.tmsimg.com/h3/NowShowing/81294/s81294_h3_aa.png" group-title="INFANTILES",FOX PREMIUM  FAMILY FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN FAMILY HQ" tvg-logo="http://ondemo.tmsimg.com/h3/NowShowing/81294/s81294_h3_aa.png" group-title="INFANTILES",FOX PREMIUN FAMILY HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR FULL HQ" tvg-logo="http://4.bp.blogspot.com/-Yu6UqDXR8o4/UMiQpl-GQUI/AAAAAAAAdYc/2tvPFQohlOo/s1600/nickjr_logo.png" group-title="INFANTILES",NICK JR FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON HQ" tvg-logo="http://i.imgur.com/wsoGWqE.png" group-title="INFANTILES",NICKELODEON HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO KIDS HQ" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="INFANTILES",NATGEO KIDS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOONCAST HQ" tvg-logo="https://i.pinimg.com/originals/81/08/66/810866f902ff1c640cd530dcde7e9092.png" group-title="INFANTILES",TOONCAST HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK HQ" tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.102.1/img/cnlogo_social.png" group-title="INFANTILES",CARTOON NETWORK HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS FULL HQ" tvg-logo="https://seeklogo.com/images/D/discovery-kids-brasil-logo-A22D5B835B-seeklogo.com.png" group-title="INFANTILES",DISCOVERY KIDS FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* DOCUMENTALES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/01oafqits9m6jdh/DOCUMENTALES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* DOCUMENTALES ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/01oafqits9m6jdh/DOCUMENTALES.png" group-title="General Streams",#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* DOCUMENTALES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/01oafqits9m6jdh/DOCUMENTALES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* DOCUMENTALES ☆▆ ▅ ▄ ▂ ▁
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HQ" tvg-logo="http://torrent-stream.ru/images/kanaly/discovery_world.png" group-title="CLARO",DISCOVERY WORLD HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO HQ" tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN.png" group-title="CLARO",DISCOVERY TURBO HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER HQ" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CLARO",DISCOVERY THEATER HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HQ" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="CLARO",DISCOVERY SCIENCE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME HEALTH HQ" tvg-logo="https://www.redesat.com.br/uploads/canal_1421444814.png" group-title="CLARO",DISCOVERY HOME HEALTH HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME HEALTH FULL HQ" tvg-logo="https://i.pinimg.com/originals/68/72/0e/68720e5b3be3fc627b600cc8358f0ff0.png" group-title="CLARO",DISCOVERY HOME HEALTH FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL HQ" tvg-logo="http://www.vanderboegh.com/wp-content/uploads/2016/03/discover-logo.png" group-title="CLARO",DISCOVERY CHANNEL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DHE HQ" tvg-logo="http://televvd.com/wp-content/uploads/2017/06/titulo-DHE-300x136.png" group-title="CLARO",DHE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET FULL HQ" tvg-logo="http://liquipedia.net/commons/images/a/ad/Animal_Planet_Logo.png" group-title="CLARO",ANIMAL PLANET FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="CLARO",TLC HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM HQ" tvg-logo="http://portaltcm.com.br/assets/images/logo-tcmhd-rect.png" group-title="CLARO",TCM HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD HQ" tvg-logo="http://www.nrtco.net/sites/default/files/img/natgeo-wild.png" group-title="CLARO",NATGEO WILD HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRU TV HQ" tvg-logo="http://www.foxcitiestv.com/files/images/trutv.png" group-title="CLARO",TRU TV HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID HQ" tvg-logo="http://www.deborahbarbier.com/wp-content/uploads/2014/07/InvestigationDiscoveryLogo.png" group-title="CLARO",ID HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H2 HQ" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="CLARO",H2 HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY ROKU" tvg-logo="https://www.documaniatv.com/uploads/thumbs/history-channel.png" group-title="ROKU",HISTORY ROKU
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* DEPORTES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/qqswjmaettv40so/DEPORTES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* DEPORTES ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/qqswjmaettv40so/DEPORTES.png" group-title="DEPORTES",#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* DEPORTES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/qqswjmaettv40so/DEPORTES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* DEPORTES ☆▆ ▅ ▄ ▂ ▁
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UFC" tvg-logo="http://www.tuvez.com/wp-content/uploads/2011/04/UFCLatinoLogo.png" group-title="",UFC
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Univision deportes  (claro)" tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="CLARO",Univision deportes  (claro)
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tdn  (claro)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="CLARO",Tdn  (claro)
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVICION DEPORTES HD FULL" tvg-logo="http://www.deltatre.com/wp-content/uploads/2014/02/300px-black.png" group-title="",UNIVICION DEPORTES HD FULL
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT FULL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" group-title="ROKU",FOX SPORT FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2 FULL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/2000px-2015_Fox_sports_logo.svg.png" group-title="ROKU",FOX SPORT 2 FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 3 FULL HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_4628.png" group-title="ROKU",FOX SPORT 3 FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS FULL HQ" tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150_2017.png" group-title="ROKU",WIN SPORTS FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROCHANNEL HQ" tvg-logo="http://ondemo.tmsimg.com/h3/NowShowing/16574/s16574_h3_aa.png" group-title="ROKU",EUROCHANNEL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORT HQ" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png" group-title="ROKU",CLARO SPORT HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN ROKU" tvg-logo="http://logok.org/wp-content/uploads/2015/02/ESPN-logo-wordmark-219x286.png" group-title="ROKU",ESPN ROKU
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 ROKU" tvg-logo="http://senaltvonline.com/wp-content/uploads/2016/10/espn-2.png" group-title="ROKU",ESPN 2 ROKU
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 ROKU" tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn3-s.png" group-title="ROKU",ESPN 3 ROKU
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN PLUS + ROKU" tvg-logo="https://i.imgur.com/sMIM9oi.png" group-title="ROKU",ESPN PLUS + ROKU
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF LATIN AMERICA HQ" tvg-logo="http://www.golfchannel-la.com/wp-content/themes/golfchannel/images/assests/logo-golf.png" group-title="ROKU",GOLF LATIN AMERICA HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* PREMIUM ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/s1zxwa373uazqqj/PREMIUM.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* PREMIUM ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/s1zxwa373uazqqj/PREMIUM.png" group-title="PREMIUM",#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* PREMIUM ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/s1zxwa373uazqqj/PREMIUM.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* PREMIUM ☆▆ ▅ ▄ ▂ ▁
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FULL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/HBO_522.png" group-title="PREMIUM",HBO FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 FULL  HQ" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="PREMIUM",HBO 2 FULL  HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS FULL HQ" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/hbo-plus-200x120-52473396.png" group-title="PREMIUM",HBO PLUS FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY FULL HQ" tvg-logo="http://static.iptv-epg.com/mx/HBOFamily.mx.png" group-title="PREMIUM",HBO FAMILY FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE FULL HQ" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png" group-title="PREMIUM",HBO SIGNATURE FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MP MULTIPREMIER" tvg-logo="http://miralatvenvivo.com/wp-content/uploads/2017/04/MultiPremierEnVivo.png" group-title="PREMIUM",MP MULTIPREMIER
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP FULL HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8061_7_2874.png" group-title="PREMIUM",MAX UP FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME HQ" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="PREMIUM",MAX PRIME HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME  FULL HQ" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/7ee15a9c-57ad-4c9e-bf4e-f167f047ba27-Max-Prime-Oeste.png" group-title="PREMIUM",MAX PRIME  FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FXM HQ" tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShowing/14988/s14988_h3_ba.png" group-title="PREMIUM",FXM HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HQ" tvg-logo="https://raw.githubusercontent.com/joffrey-bion/fx-log/master/src/deploy/package/icon.png" group-title="PREMIUM",FX HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SERIES FULL HQ" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-series-oeste.png" group-title="PREMIUM",FOX SERIES FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN MOVIES HQ" tvg-logo="https://www.luna.ovh/imgw/450px/FOX-Premium-Movies-Logo-300x98.png" group-title="PREMIUM",FOX PREMIUN MOVIES HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN ACTION HQ" tvg-logo="https://help.foxplay.com/hc/article_attachments/360003766972/FOX_Premium_Action.png" group-title="PREMIUM",FOX PREMIUN ACTION HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES FULL HQ" tvg-logo="https://www.luna.ovh/imgw/450px/FOX-Premium-Movies-Logo-300x98.png" group-title="PREMIUM",FOX MOVIES FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="PREMIUM",FOX LIFE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HQ" tvg-logo="http://cdn.foxplay.com/sites/foxplay/files/img/helpdesk/logo-fox-premium.png" group-title="PREMIUM",FOX HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY FULL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="PREMIUM",FOX COMEDY FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSICS HQ" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/05/FOX-Premium-Classics-Logo-300x98.png" group-title="PREMIUM",FOX CLASSICS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA FULL HQ" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/05/fox-cinema.png" group-title="PREMIUM",FOX CINEMA FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION FULL HQ" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="PREMIUM",FOX ACTION FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/10/cinemax__131007164113.png" group-title="PREMIUM",CINEMAX
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA PLUS HQ" tvg-logo="https://i.vimeocdn.com/portrait/14409059_300x300" group-title="PREMIUM",CINEMA PLUS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA DINAMITA HQ" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Inicio.png.d1804462375d9c9ba5e1bc3121b10532.png" group-title="PREMIUM",CINEMA DINAMITA HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINELATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/300px-Cinelatino_logo.png" group-title="PREMIUM",CINELATINO
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL HQ" tvg-logo="http://1.bp.blogspot.com/-BgPocZVKhFA/VPTsxk6MufI/AAAAAAAAAD4/CMcxFVYYsLA/s1600/Imagen1.png" group-title="PREMIUM",CINECANAL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PREMIER FULL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="PREMIUM",GOLDEN PREMIER FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PLUS HQ" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="PREMIUM",GOLDEN PLUS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sundance_Channel_Logo.png/200px-Sundance_Channel_Logo.png" group-title="General Streams",SUNDANCE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STUDIO UNIVERSAL HQ" tvg-logo="https://mitvstatic.com/channels/br_studio-universal_m.png" group-title="General Streams",STUDIO UNIVERSAL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE HQ" tvg-logo="https://skyassineonline.com.br/img/channels/lg-258-canal-space-hd.png" group-title="PREMIUM",SPACE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/med_gallery_1163_2_79707.png" group-title="General Streams",SONY HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY FULL HQ" tvg-logo="https://seeklogo.com/images/C/canal-sony-entretenimiento-logo-D7FD6DCC88-seeklogo.com.png" group-title="General Streams",SONY FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1155_2_27259.png" group-title="General Streams",WARNER HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c6/Universal_Channel.png" group-title="PREMIUM",UNIVERSAL CHANNEL
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVE HQ" tvg-logo="https://24fab.com/wp-content/uploads/2017/09/Logo_tve_internacional.png" group-title="General Streams",TVE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="PREMIUM",TNT SERIES HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/266px-TNT_TV_logo.svg.png" group-title="PREMIUM",TNT HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLNOVELAS" tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/tlnovelas-logo.png" group-title="General Streams",TLNOVELAS
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="THE FILM ZONE HQ" tvg-logo="http://www.widemedia.tv/wp-content/uploads/2016/02/filmzone_transp-300x300.png" group-title="General Streams",THE FILM ZONE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO INTERNACIONAL HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_3697.png" group-title="PREMIUM",TELEMUNDO INTERNACIONAL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PREMIUM",TELEMUNDO HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RCN TELENOVELAS HQ" tvg-logo="http://www.rcnnovelas.com/wp-content/uploads/2015/07/logo_RCNNovelas.png" group-title="General Streams",RCN TELENOVELAS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PELICULA HQ" tvg-logo="http://servisat.co/wp-content/uploads/2015/11/De_pelicula_logo-300x101.png" group-title="PREMIUM",PELICULA HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PASIONES HQ" tvg-logo="http://latam.tvpasiones.com/wp-content/uploads/2017/06/pasiones-logo-black.png" group-title="General Streams",PASIONES HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT FULL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Paramount_Channel.png/200px-Paramount_Channel.png" group-title="General Streams",PARAMOUNT FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MASCHIC HQ" tvg-logo="http://www.ipuntotv.com/IMAGES/MasChic-logo.png" group-title="General Streams",MASCHIC HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/561.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME HQ" tvg-logo="https://seeklogo.com/images/L/lifetime-latin-america-logo-ED2FC13201-seeklogo.com.png" group-title="General Streams",LIFETIME HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ISAT HQ" tvg-logo="https://archive.is/vHtGY/6e88c3cbeee6cadc31fe71c7bf863797c966e845.png" group-title="General Streams",ISAT HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HTV HQ" tvg-logo="http://nguyenmedia.vn/public/assets/images/HTV.png" group-title="MUSICALES",HTV HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E ENTRETENIMENT" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png" group-title="General Streams",E ENTRETENIMENT
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLA TV HQ" tvg-logo="http://www.ipuntotv.com/IMAGES/Hola-TV-logo.png" group-title="General Streams",HOLA TV HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOURMET HQ" tvg-logo="http://server1.nerdtv.club/xml2/logos/el-gourmet.png" group-title="General Streams",GOURMET HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLITZ HQ" tvg-logo="http://ipuntotv.com/IMAGES/Glitz-logo-nuevo.png" group-title="General Streams",GLITZ HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EL SEMBRADOR HQ" tvg-logo="http://elsembradorministries.com/tv/wp-content/uploads/2016/04/logo-tv-2.png" group-title="General Streams",EL SEMBRADOR HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EL CANAL DE LAS ESTRELLAS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="General Streams",EL CANAL DE LAS ESTRELLAS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DW LATINO HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="ROKU",DW LATINO HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CONCERT CHANNEL HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/med_gallery_1157_7_147957.png" group-title="General Streams",CONCERT CHANNEL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Comedy_Central_Sweden.svg/220px-Comedy_Central_Sweden.svg.png" group-title="General Streams",COMEDY CENTRAL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN INTERNACIONAL HQ" tvg-logo="http://www.genserv-ph.com/assets/img/sattv/cnnint.png" group-title="General Streams",CNN INTERNACIONAL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPANOL  HQ" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="General Streams",CNN ESPANOL  HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL CLARO TV" tvg-logo="https://www.estereofonica.com/wp-content/uploads/2016/03/Claro-Spots-Colombia.png" group-title="General Streams",CANAL CLARO TV
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/547.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO CINEMA HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png" group-title="General Streams",CLARO CINEMA HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARACOL INT HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logocaracol.svg/200px-Logocaracol.svg.png" group-title="General Streams",CARACOL INT HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARACOL HQ" tvg-logo="https://seeklogo.com/images/C/caracol-television-2000-2003-logo-E6144929CB-seeklogo.com.png" group-title="General Streams",CARACOL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZMUNDO HQ" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_4457.png" group-title="General Streams",AZMUNDO HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZCORAZON HQ" tvg-logo="http://static.azteca.com/portal/tvpagahome/images/azcorazon.png" group-title="General Streams",AZCORAZON HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN FULL HQ" tvg-logo="https://skyassineonline.com.br/img/channels/lg-48-canal-axn.png" group-title="General Streams",AXN FULL HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HQ" tvg-logo="https://csa.dishnetwork.com/images/logos/amchd.png" group-title="General Streams",AMC HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E  HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="General Streams",A&E  HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN ROKU" tvg-logo="https://skyassineonline.com.br/img/channels/lg-48-canal-axn.png" group-title="ROKU",AXN ROKU
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* MUSICALES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/auz2f3p85o6rmm2/MUSICALES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* MUSICALES ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/auz2f3p85o6rmm2/MUSICALES.png" group-title="MUSICALES",#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ SECCION* MUSICALES ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ LATINO* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/auz2f3p85o6rmm2/MUSICALES.png" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ SECCION* MUSICALES ☆▆ ▅ ▄ ▂ ▁
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 HQ" tvg-logo="http://ondemo.tmsimg.com/h3/NowShowing/42567/s42567_h3_aa.png" group-title="MUSICALES",VH1 HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC HQ" tvg-logo="https://seeklogo.com/images/V/vh1-classic-logo-4B212D3683-seeklogo.com.png" group-title="MUSICALES",VH1 CLASSIC HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEPLUSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png" group-title="MUSICALES",VEPLUSTV
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO MUSIC HQ" tvg-logo="https://itsdcdn.com/resources/services/logowide/340/claro-musica.png" group-title="MUSICALES",CLARO MUSIC HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUSICA TV HQ" tvg-logo="http://www.demiurg.tv/upload/iblock/e06/C%20Music%20TV%20HD.png" group-title="MUSICALES",MUSICA TV HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSICALES",MTV LIVE HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HQ" tvg-logo="http://studiofishandchips.co.uk/wp-content/uploads/2017/04/MTV_Cover_01.png" group-title="MUSICALES",MTV HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="MUSICALES",MTV HITS HQ
+http://138.197.172.112:8900/live/ZONAECUADOR/SERVEREDUARDOCISNEROS/566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17WsFMomu2pZs2phrhrxekZrdBdHN90yE1sPTkiOcEqQzy19E" group-title="General Movies",CARS 3
+http://138.197.172.112:8900/movie/ZONAECUADOR/SERVEREDUARDOCISNEROS/618.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="BATMAN GOTHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FtbphecTRuiyWpmf_RtSSa1DZDO8twPqwnCANFJ6accRjxXg" group-title="General Movies",BATMAN GOTHAN
+http://138.197.172.112:8900/movie/ZONAECUADOR/SERVEREDUARDOCISNEROS/617.mp4
